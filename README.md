@@ -41,8 +41,8 @@ If two or more teams have the same number of points, they should have the same r
 
 Please Note:
 
-Please store your project on Github.
-You must use Java SE reading into a data structure (ArrayList , HashMap and/or TreeMap) which will reflect the final scoreboard so it can just be printed .
+Store your project on Github.
+You must use Java SE reading into a data structure (ArrayList , HashMap and/or TreeMap) which will reflect the final scoreboard so it can just be printed.
 Remember that some data structure do not store duplicates
 
 LAST EDIT June 2022
