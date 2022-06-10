@@ -45,4 +45,11 @@ Please Note:
 2. You must use Java SE reading into a data structure (ArrayList , HashMap and/or TreeMap) which will reflect the final scoreboard so it can just be printed.
 3. Do not store duplicates.
 
+
+The final working app:
+![finalworkongappsoccer](https://user-images.githubusercontent.com/83961643/173107291-60081440-98ce-46bd-9039-84757c92d003.jpeg)
+
+
+Special thanks to Eugene Heynike for being a genius :)
+
 LAST EDIT June 2022
